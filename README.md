@@ -27,16 +27,16 @@ MATLAB applications and all its components.
 
 Following the recommendations of the IBSI, computation of the following 11 different feature categories are                   
 incorporated within the ROdiomX software:                                                                                                                                     
-1- Local-Intensity                                                                                                
-2- Intensity-Histogram                                                                                                
-3- Intensity-Based-Statistical                                                                                                
-4- Intensity-Volume-Histogram                                                                                                
-5- Gray-Level-Cooccurrence                                                                                                
-6- Gray-Level-Run-Length                                                                                                
-7- Gray-Level-Size-Zone                                                                                                
-8- Gray-Level-Distance-Zone                                                                                                
-9- Neighborhood-Grey-Tone-Difference                                                                                                
-10- Neighboring-Grey-Level-Dependence                                                                                                
+1- Local-Intensity .................... ROdiomX_LI                                                                                                
+2- Intensity-Histogram ................ ROdiomX_IH                                                                                                
+3- Intensity-Based-Statistical ........ ROdiomX_IBS                                                                                                
+4- Intensity-Volume-Histogram ......... ROdiomX_IVH                                                                                                
+5- Gray-Level-Cooccurrence ............ ROdiomX_GLCM                                                                                               
+6- Gray-Level-Run-Length .............. ROdiomX_GLRLM                                                                                                
+7- Gray-Level-Size-Zone ............... ROdiomX_GLSZM                                                                                               
+8- Gray-Level-Distance-Zone ........... ROdiomX_GLDZM                                                                                               
+9- Neighborhood-Grey-Tone-Difference .. ROdiomX_NGTDM                                                                                             
+10- Neighboring-Grey-Level-Dependence.. ROdiomX_NGLDM                                                                                                
 11- Morphological                                                                                                
 
 
