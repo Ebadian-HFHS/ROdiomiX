@@ -39,7 +39,8 @@ incorporated within the ROdiomX software:
 11- Morphological .................... ROdiomX_MORPH                                                                                            
 
 The ‘Morphological’ feature category is still under development and more features will be added                                 
-to it in the next release of the software.
+to it in the next release of the software. The software is capable of calculating 2D and 3D directional feature computation algorithms for different feature
+categories, as well as various feature aggregation techniques (2D, 2.5D, and 3D) as specified with the IBSI guidelines.
 
 
 
