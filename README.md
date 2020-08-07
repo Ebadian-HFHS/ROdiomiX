@@ -38,5 +38,8 @@ incorporated within the ROdiomX software:
 10- Neighboring-Grey-Level-Dependence .................... ROdiomX_NGLDM                                                                                                
 11- Morphological .................... ROdiomX_MORPH                                                                                            
 
+The ‘Morphological’ feature category is still under development and more features will be added                                 
+to it in the next release of the software.
+
 
 
