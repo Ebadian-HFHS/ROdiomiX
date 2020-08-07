@@ -15,8 +15,7 @@ ROdiomX is an IBSI-validated software which has been developed under the MATLAB 
 for use in clinic. The ROdiomX software is equipped with a DICOM RT structure reading module that employs the
 Plastimatch-1.9.0 software. The Plastimatch software (https://gitlab.com/plastimatch/plastimatch/blob/master/src/plastimatch/LICENSE.TXT) 
 is intended for research use only. The Plastimatch is an open source software for image computation in Radiation Therapy (RT) which can be used, modified, 
-and distributed without cost under a BSD-style license. This module enables conversion of RT-structure data from DICOM to ANALYZE 7.5 for image processing prior
-to radiomics computation.
+and distributed without cost under a BSD-style license. The ROdiomX_DICOM-RT-STRUCTURE module enables conversion of RT-structure data from DICOM to ANALYZE 7.5 for image processing prior to radiomics computation.                                                       
 
 The ROdiomX software is a MATLAB compiled in form of standalone executable file (for 64-bit Windows), which can
 be called from the command line and series of graphical user interfaces (GUIs). 
