@@ -25,8 +25,8 @@ In order to install and use the ROdiomX software, users will require a MATLAB Co
 (MCR 64-bit) installation, which is a standalone set of shared libraries enabling the execution of compiled
 MATLAB applications and all its components.
 
-Following the recommendations of the IBSI, computation of the following 11 different feature categories are 
-incorporated within the ROdiomX software:                                                                  
+Following the recommendations of the IBSI, computation of the following 11 different feature categories are                   
+incorporated within the ROdiomX software:                                                                                                                                     
 1- Local-Intensity                                                                                                
 2- Intensity-Histogram                                                                                                
 3- Intensity-Based-Statistical                                                                                                
