@@ -27,8 +27,8 @@ MATLAB applications and all its components.
 
 Following the recommendations of the IBSI, computation of the following 11 different feature categories are                   
 incorporated within the ROdiomX software:                                                                                                                                     
-1- Local-Intensity ................................ ROdiomX_LI                                                                                                
-2- Intensity-Histogram ................ ROdiomX_IH                                                                                                
+1- Local-Intensity .................... ROdiomX_LI                                                                                                                               
+2- Intensity-Histogram ................ ROdiomX_IH                                
 3- Intensity-Based-Statistical ........ ROdiomX_IBS                                                                                                
 4- Intensity-Volume-Histogram ......... ROdiomX_IVH                                                                                                
 5- Gray-Level-Cooccurrence ............ ROdiomX_GLCM                                                                                               
