@@ -1,9 +1,10 @@
 # ROdiomX
+
+Copyright (C) 2020                                                                                       
 ROdiomX is an IBSI validated software for radiomics analysis of medical images in radiation oncology                      
 URL: <https://github.com/Ebadian-HFHS/ROdiomX>                                                                       
 The ROdiomX Software consists of a series of executable MATLAB-based modules for Radiomics Analysis.
-
-Copyright (C) 2020                                                                                            
+                                                                                          
 Authors: Drs. Hassan Bagher-Ebadian & Indrin J. Chetty                                                                                                                       
 Location: Department of Radiation Oncology, Henry Ford Health System, Detroit, MI 48202, USA
 
